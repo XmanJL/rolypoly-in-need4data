@@ -1,0 +1,6 @@
+# large data
+data
+.venv
+
+# unnecessary files
+.DS_Store
