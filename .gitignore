@@ -1,6 +1,7 @@
 # large data
 data
 .venv
+US_Accidents_March23_sampled_500k.csv
 
 # unnecessary files
 .DS_Store
